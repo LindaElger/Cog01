@@ -19,3 +19,5 @@ How: Take the proper set of actions: namely
 4. Communicate effectively.
 
 blah blah blah .... 
+
+and so on
