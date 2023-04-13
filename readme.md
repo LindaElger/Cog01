@@ -10,3 +10,4 @@ Goal State: Super easy to collaborate using obsidian and github
 4. Integrated task management.
 5. Integrated communication. 
 
+And there is more. 
